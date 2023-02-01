@@ -6,6 +6,9 @@ This is my first **personal** README ! :scream:
 
 I'm Tronxi and I'm a young French 🇫🇷 developer !
 
+My GitHub avatar is :
+![Avatar](me.png)
+
 ![](https://komarev.com/ghpvc/?username=tronxi-alex&label=Vu+de+profile+👀)
 
 <!--
