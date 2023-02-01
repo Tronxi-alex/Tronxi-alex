@@ -16,11 +16,11 @@ My discord is :
 
 ## My languages:
 
-My principal languages is javascript.
-I use it mainly for bots with discord.js
+My principal languages is **_javascript_**.
+I use it mainly for bots with `discord.js`.
 
-I also practice web development
-I learn HTML and CSS in addition to javascript with frameworks like `jquery`
+I also practice web development.
+I learn _HTML_ and _CSS_ in addition to _javascript_ with frameworks like `jquery`.
 
 
 ### <p align="center">👀 &nbsp;Visitors</p>
