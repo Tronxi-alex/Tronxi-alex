@@ -14,7 +14,7 @@ My discord is :
 
 `<𝐝𝐢𝐯>𝐀𝐥𝐞𝐱</𝐝𝐢𝐯>#7686`
 
-## Here are my languages: ^^ 
+## My languages:
 
 My principal languages is javascript.
 I use it mainly for bots with discord.js
