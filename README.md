@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi ! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35px">
 
-![](https://komarev.com/ghpvc/?username=tronxi-alex&label=Vu+de+profile)
+## Moi c'est Tronxi_ ! 
+
+This is my first **personal** README ! :scream:
+
+I'm Tronxi and I'm a young French 🇫🇷 developer !
+
+![](https://komarev.com/ghpvc/?username=tronxi-alex&label=Vu+de+profile+👀)
 
 <!--
 **Tronxi-alex/Tronxi-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
