@@ -26,8 +26,9 @@ I learn _HTML_ and _CSS_ in addition to _javascript_ with frameworks like `jquer
 ### <p align="center">👀 &nbsp;Visitors</p>
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=tronxi-alex&label=Vu+de+profile+👀)
-<img src="https://komarev.com/ghpvc/?username=tronxi-alex&label=Vu+de+profile+👀" />
+
+    <img src="https://komarev.com/ghpvc/?username=tronxi-alex&label=Vu+de+profile+👀" />
+
 </p>
 
 <!--
