@@ -27,7 +27,7 @@ I learn _HTML_ and _CSS_ in addition to _javascript_ with frameworks like `jquer
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=tronxi-alex&label=Vu+de+profile+👀" />
+  <img src="https://komarev.com/ghpvc/?username=tronxi-alex&label=Vue(s)+de+profile+👀" />
 
 </p>
 
