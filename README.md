@@ -12,7 +12,7 @@ My GitHub avatar is :
 
 My discord is :
 
-`<𝐝𝐢𝐯>𝐀𝐥𝐞𝐱</𝐝𝐢𝐯>#7686`
+`Tronxi_#7686`
 
 ## My languages:
 
@@ -30,19 +30,3 @@ I learn _HTML_ and _CSS_ in addition to _javascript_ with frameworks like `jquer
   <img src="https://komarev.com/ghpvc/?username=tronxi-alex&label=Vue(s)+de+profile+👀" />
 
 </p>
-
-<!--
-**Tronxi-alex/Tronxi-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 H
-ow to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
