@@ -12,7 +12,7 @@ My GitHub avatar is :
 
 My discord is :
 
-`Tronxi_#7686`
+`tronxi`
 
 ## My languages:
 
